@@ -430,6 +430,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-16 19:59:50 +0000",
       "sweet_berries": "2025-04-16 03:51:58 +0000",
       "cooked_beef": "2025-04-16 02:15:19 +0000",
       "beef": "2025-04-16 02:10:04 +0000",
@@ -2157,19 +2158,13 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-04-16 15:21:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-04-16 15:33:10 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-16 14:51:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-04-16 14:51:17 +0000"
     },
@@ -2181,27 +2176,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-16 15:21:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-04-16 15:21:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
+  "minecraft:recipes/building_blocks/glass": {
     "criteria": {
-      "has_bow": "2025-04-16 14:51:17 +0000"
+      "has_smelts_to_glass": "2025-04-16 15:33:10 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-04-16 15:33:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2025-04-16 15:47:57 +0000"
     },
     "done": true
   },
@@ -2214,6 +2209,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-04-16 15:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-16 15:47:57 +0000"
     },
     "done": true
   },

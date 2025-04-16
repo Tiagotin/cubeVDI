@@ -1,129 +1,64 @@
-[16Apr2025 14:08:37.314] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 45.3.3, --fml.mcVersion, 1.19.4, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230314.122934, nogui]
-[16Apr2025 14:08:37.319] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[16Apr2025 14:08:37.582] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/cubeVDI/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[16Apr2025 14:08:37.866] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubeVDI/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.4-45.3.3/fmlcore-1.19.4-45.3.3.jar is missing mods.toml file
-[16Apr2025 14:08:37.869] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubeVDI/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.4-45.3.3/javafmllanguage-1.19.4-45.3.3.jar is missing mods.toml file
-[16Apr2025 14:08:37.872] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubeVDI/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.4-45.3.3/lowcodelanguage-1.19.4-45.3.3.jar is missing mods.toml file
-[16Apr2025 14:08:37.874] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubeVDI/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.4-45.3.3/mclanguage-1.19.4-45.3.3.jar is missing mods.toml file
-[16Apr2025 14:08:38.033] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[16Apr2025 14:08:39.881] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[16Apr2025 14:08:39.954] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
-[16Apr2025 14:08:39.955] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[16Apr2025 14:08:39.986] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
-[16Apr2025 14:08:39.988] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
-[16Apr2025 14:08:39.997] [main/WARN] [mixin/]: Reference map 'nerb-forge-refmap.json' for nerb.mixins.json could not be read. If this is a development environment you can ignore this message
-[16Apr2025 14:08:40.592] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[16Apr2025 14:08:46.834] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 45.3.3, for MC 1.19.4 with MCP 20230314.122934
-[16Apr2025 14:08:46.836] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v45.3.3 Initialized
-[16Apr2025 14:08:48.137] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
-[16Apr2025 14:08:48.415] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[16Apr2025 14:08:48.805] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 45.3.3 Target: 45.4.0
-[16Apr2025 14:08:48.806] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.19.4
-[16Apr2025 14:08:49.158] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA_OUTDATED Current: 10.0.0.3 Target: 10.0.0.4
-[16Apr2025 14:08:49.159] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[16Apr2025 14:08:49.384] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.9 Target: 1.9.12
-[16Apr2025 14:08:50.127] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16Apr2025 14:08:51.020] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cubeVDI/servidor_minecraft/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23125!/assets/.mcassetsroot' uses unexpected schema
-[16Apr2025 14:08:51.021] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cubeVDI/servidor_minecraft/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23125!/data/.mcassetsroot' uses unexpected schema
-[16Apr2025 14:08:52.470] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[16Apr2025 14:08:52.929] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1927 advancements
-[16Apr2025 14:08:53.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.4
-[16Apr2025 14:08:53.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[16Apr2025 14:08:53.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[16Apr2025 14:08:53.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[16Apr2025 14:08:53.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[16Apr2025 14:08:53.802] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[16Apr2025 14:08:53.922] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16Apr2025 14:08:53.922] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[16Apr2025 14:08:53.923] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16Apr2025 14:08:53.923] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[16Apr2025 14:08:53.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[16Apr2025 14:08:57.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[16Apr2025 14:09:01.977] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Apr2025 14:09:01.978] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Apr2025 14:09:01.979] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Apr2025 14:09:01.980] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Apr2025 14:09:01.981] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Apr2025 14:09:01.981] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Apr2025 14:09:01.982] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Apr2025 14:09:01.983] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Apr2025 14:09:01.984] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Apr2025 14:09:01.985] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[16Apr2025 14:09:02.482] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
-[16Apr2025 14:09:02.982] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 37%
-[16Apr2025 14:09:03.483] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 92%
-[16Apr2025 14:09:03.540] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6059 ms
-[16Apr2025 14:09:03.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.598s)! For help, type "help"
-[16Apr2025 14:09:03.564] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[16Apr2025 14:12:59.901] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [orc_hut:orc_hut,monster_hunter_villager:monster_hunter_villager,securitycraft:securitycraft] rejected their client side version number
-[16Apr2025 14:12:59.902] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[16Apr2025 14:12:59.922] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1719fb3a[id=<null>,name=EiSanMor,properties={},legacy=false] (/127.121.101.213:59423) lost connection: Connection closed - mismatched mod channel list
-[16Apr2025 14:14:30.538] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [orc_hut:orc_hut,monster_hunter_villager:monster_hunter_villager,securitycraft:securitycraft] rejected their client side version number
-[16Apr2025 14:14:30.539] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[16Apr2025 14:14:30.565] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@288f5e82[id=<null>,name=EiSanMor,properties={},legacy=false] (/127.121.101.213:46423) lost connection: Connection closed - mismatched mod channel list
-[16Apr2025 14:16:47.440] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [orc_hut:orc_hut,monster_hunter_villager:monster_hunter_villager,securitycraft:securitycraft] rejected their client side version number
-[16Apr2025 14:16:47.441] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[16Apr2025 14:16:47.465] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1a845ec7[id=<null>,name=EiSanMor,properties={},legacy=false] (/127.121.101.213:57727) lost connection: Connection closed - mismatched mod channel list
-[16Apr2025 14:23:42.640] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [orc_hut:orc_hut,monster_hunter_villager:monster_hunter_villager,securitycraft:securitycraft] rejected their client side version number
-[16Apr2025 14:23:42.640] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[16Apr2025 14:23:42.665] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7befb52e[id=<null>,name=EiSanMor,properties={},legacy=false] (/127.121.101.213:52733) lost connection: Connection closed - mismatched mod channel list
-[16Apr2025 14:24:44.692] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [orc_hut:orc_hut,monster_hunter_villager:monster_hunter_villager,securitycraft:securitycraft] rejected their client side version number
-[16Apr2025 14:24:44.692] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
-[16Apr2025 14:24:44.715] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@118c8e16[id=<null>,name=EiSanMor,properties={},legacy=false] (/127.121.101.213:44251) lost connection: Connection closed - mismatched mod channel list
-[16Apr2025 14:31:15.909] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tried1050TI[/127.248.45.66:54027] logged in with entity id 74 at (-6.5, 77.0, -8.5)
-[16Apr2025 14:31:15.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tried1050TI joined the game
-[16Apr2025 14:31:26.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-13, y=77, z=-1}
-[16Apr2025 14:32:24.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tried1050TI fell from a high place
-[16Apr2025 14:32:33.938] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-13, y=73, z=8}
-[16Apr2025 14:32:34.995] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-15, y=72, z=13}
-[16Apr2025 14:32:35.196] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-16, y=73, z=13}
-[16Apr2025 14:33:27.093] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=55, y=72, z=-188} BlockPos{x=53, y=71, z=-189}
-[16Apr2025 14:33:28.288] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=56, y=73, z=-191} BlockPos{x=58, y=71, z=-191}
-[16Apr2025 14:33:28.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=56, y=73, z=-191} BlockPos{x=58, y=71, z=-191}
-[16Apr2025 14:36:55.722] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tried1050TI lost connection: Disconnected
-[16Apr2025 14:36:55.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tried1050TI left the game
-[16Apr2025 14:46:34.670] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EiSanMor[/127.121.101.213:47321] logged in with entity id 1942 at (-4.5, 74.0, 9.5)
-[16Apr2025 14:46:34.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EiSanMor joined the game
-[16Apr2025 14:46:34.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EiSanMor lost connection: Disconnected
-[16Apr2025 14:46:34.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EiSanMor left the game
-[16Apr2025 14:47:33.023] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EiSanMor[/127.121.101.213:48109] logged in with entity id 1996 at (-4.5, 74.0, 9.5)
-[16Apr2025 14:47:33.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EiSanMor joined the game
-[16Apr2025 14:49:03.054] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xrozamelanox[/127.158.126.241:35747] logged in with entity id 2324 at (69.61871500032875, 63.875, 161.4216380065605)
-[16Apr2025 14:49:03.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox joined the game
-[16Apr2025 14:53:30.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox was doomed to fall by Creeper
-[16Apr2025 14:59:49.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EiSanMor has made the advancement [Stone Age]
-[16Apr2025 15:05:33.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EiSanMor has made the advancement [Getting an Upgrade]
-[16Apr2025 15:11:44.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EiSanMor has made the advancement [Sweet Dreams]
-[16Apr2025 15:21:44.134] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabzz0409[/127.90.73.131:36553] logged in with entity id 13574 at (377.69999998807907, 64.0, 713.6999999880791)
-[16Apr2025 15:21:44.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabzz0409 joined the game
-[16Apr2025 15:21:56.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> todo bien mi vida
-[16Apr2025 15:22:09.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabzz0409> todo bien rey
-[16Apr2025 15:23:51.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> pueden dormir?
-[16Apr2025 15:25:06.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabzz0409 was shot by Skeleton
-[16Apr2025 15:25:29.175] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EiSanMor lost connection: Disconnected
-[16Apr2025 15:25:29.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EiSanMor left the game
-[16Apr2025 15:25:29.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabzz0409> bueno
-[16Apr2025 15:25:33.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabzz0409> mejor
-[16Apr2025 15:25:40.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabzz0409> no sabia donde estaba
-[16Apr2025 15:25:44.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> bro
-[16Apr2025 15:25:59.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> justo le iba a decir q se silencie por que se le escuchaba la musica
-[16Apr2025 15:26:07.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> y se fue
-[16Apr2025 15:26:12.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> fue como meno
-[16Apr2025 15:26:16.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> ta bien
-[16Apr2025 15:26:39.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabzz0409> maca regalame cosas
-[16Apr2025 15:26:48.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> no tengo nada bro
-[16Apr2025 15:26:53.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabzz0409> eprdi todo
-[16Apr2025 15:26:54.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> queres piedra?
-[16Apr2025 15:26:57.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> xd
-[16Apr2025 15:27:00.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabzz0409> si
-[16Apr2025 15:27:06.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> veni
-[16Apr2025 15:27:39.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> estoy gastando todo el hierro en picar y aplanar x
-[16Apr2025 15:27:41.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> xd
-[16Apr2025 15:27:47.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabzz0409> igual
-[16Apr2025 15:27:52.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabzz0409> aca tengo
-[16Apr2025 15:27:57.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabzz0409> tranqui
-[16Apr2025 15:28:04.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> oka
-[16Apr2025 15:28:33.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabzz0409 fell from a high place
-[16Apr2025 15:28:42.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> bro lo vi de reojo xd
-[16Apr2025 15:28:54.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <fabzz0409> JAJAJAJAJJ
-[16Apr2025 15:47:57.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox has made the advancement [A Seedy Place]
+[16Apr2025 19:57:27.513] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 45.3.3, --fml.mcVersion, 1.19.4, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230314.122934, nogui]
+[16Apr2025 19:57:27.517] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[16Apr2025 19:57:27.976] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/cubeVDI/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[16Apr2025 19:57:28.599] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubeVDI/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.4-45.3.3/fmlcore-1.19.4-45.3.3.jar is missing mods.toml file
+[16Apr2025 19:57:28.601] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubeVDI/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.4-45.3.3/javafmllanguage-1.19.4-45.3.3.jar is missing mods.toml file
+[16Apr2025 19:57:28.603] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubeVDI/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.4-45.3.3/lowcodelanguage-1.19.4-45.3.3.jar is missing mods.toml file
+[16Apr2025 19:57:28.605] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubeVDI/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.4-45.3.3/mclanguage-1.19.4-45.3.3.jar is missing mods.toml file
+[16Apr2025 19:57:28.917] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[16Apr2025 19:57:31.252] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[16Apr2025 19:57:31.387] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[16Apr2025 19:57:31.391] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[16Apr2025 19:57:31.482] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
+[16Apr2025 19:57:31.483] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
+[16Apr2025 19:57:31.494] [main/WARN] [mixin/]: Reference map 'nerb-forge-refmap.json' for nerb.mixins.json could not be read. If this is a development environment you can ignore this message
+[16Apr2025 19:57:33.204] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[16Apr2025 19:57:41.323] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 45.3.3, for MC 1.19.4 with MCP 20230314.122934
+[16Apr2025 19:57:41.325] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v45.3.3 Initialized
+[16Apr2025 19:57:42.909] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[16Apr2025 19:57:43.377] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[16Apr2025 19:57:43.910] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 45.3.3 Target: 45.4.0
+[16Apr2025 19:57:43.910] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.19.4
+[16Apr2025 19:57:44.364] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA_OUTDATED Current: 10.0.0.3 Target: 10.0.0.4
+[16Apr2025 19:57:44.365] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[16Apr2025 19:57:44.534] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.9 Target: 1.9.12
+[16Apr2025 19:57:45.605] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16Apr2025 19:57:46.801] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cubeVDI/servidor_minecraft/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23125!/assets/.mcassetsroot' uses unexpected schema
+[16Apr2025 19:57:46.801] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cubeVDI/servidor_minecraft/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23125!/data/.mcassetsroot' uses unexpected schema
+[16Apr2025 19:57:48.916] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[16Apr2025 19:57:49.491] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1927 advancements
+[16Apr2025 19:57:50.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.4
+[16Apr2025 19:57:50.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[16Apr2025 19:57:50.321] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[16Apr2025 19:57:50.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[16Apr2025 19:57:50.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[16Apr2025 19:57:50.705] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[16Apr2025 19:57:50.846] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16Apr2025 19:57:50.846] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[16Apr2025 19:57:50.847] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16Apr2025 19:57:50.847] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[16Apr2025 19:57:50.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[16Apr2025 19:57:54.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[16Apr2025 19:58:01.500] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Apr2025 19:58:01.502] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Apr2025 19:58:01.507] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Apr2025 19:58:01.508] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Apr2025 19:58:01.515] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Apr2025 19:58:01.516] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Apr2025 19:58:01.517] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Apr2025 19:58:01.519] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Apr2025 19:58:01.521] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Apr2025 19:58:01.524] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Apr2025 19:58:01.525] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Apr2025 19:58:01.527] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Apr2025 19:58:01.528] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Apr2025 19:58:01.529] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Apr2025 19:58:01.935] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Apr2025 19:58:02.447] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[16Apr2025 19:58:02.938] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 41%
+[16Apr2025 19:58:03.435] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 74%
+[16Apr2025 19:58:03.708] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8773 ms
+[16Apr2025 19:58:03.709] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.843s)! For help, type "help"
+[16Apr2025 19:58:03.748] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[16Apr2025 19:58:06.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xrozamelanox[/127.158.126.241:50877] logged in with entity id 221 at (60.4589664797172, 63.0, 161.51632288209188)
+[16Apr2025 19:58:06.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox joined the game
