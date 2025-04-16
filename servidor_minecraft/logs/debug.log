@@ -2689,3 +2689,21 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Apr2025 03:54:02.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sxptimo: Teleported fabzz0409 to Sxptimo]
 [16Apr2025 03:54:29.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Apr2025 03:54:29.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 03:55:25.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabzz0409 lost connection: Disconnected
+[16Apr2025 03:55:25.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabzz0409 left the game
+[16Apr2025 03:55:27.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sxptimo lost connection: Disconnected
+[16Apr2025 03:55:27.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sxptimo left the game
+[16Apr2025 03:55:45.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16Apr2025 03:55:45.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Apr2025 03:55:45.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Apr2025 03:55:46.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Apr2025 03:55:46.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Apr2025 03:55:47.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Apr2025 03:55:47.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Apr2025 03:55:47.048] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 03:55:47.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 03:55:47.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Apr2025 03:55:47.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Apr2025 03:55:47.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Apr2025 03:55:47.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16Apr2025 03:55:47.099] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
