@@ -1756,3 +1756,16 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [16Apr2025 14:53:30.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox was doomed to fall by Creeper
 [16Apr2025 14:54:03.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Apr2025 14:54:03.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 14:59:03.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 14:59:03.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 14:59:49.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EiSanMor has made the advancement [Stone Age]
+[16Apr2025 15:04:03.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 15:04:03.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 15:05:33.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EiSanMor has made the advancement [Getting an Upgrade]
+[16Apr2025 15:09:03.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 15:09:03.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 15:11:44.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EiSanMor has made the advancement [Sweet Dreams]
+[16Apr2025 15:14:03.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 15:14:03.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 15:19:03.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 15:19:03.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
