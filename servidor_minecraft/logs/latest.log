@@ -62,3 +62,10 @@
 [16Apr2025 19:58:03.748] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [16Apr2025 19:58:06.593] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xrozamelanox[/127.158.126.241:50877] logged in with entity id 221 at (60.4589664797172, 63.0, 161.51632288209188)
 [16Apr2025 19:58:06.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox joined the game
+[16Apr2025 20:16:21.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox has made the advancement [Diamonds!]
+[16Apr2025 20:16:43.407] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: palmervf[/127.99.239.131:52897] logged in with entity id 3076 at (-1.5, 73.0, 8.5)
+[16Apr2025 20:16:43.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: palmervf joined the game
+[16Apr2025 20:16:52.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <palmervf> quee onda
+[16Apr2025 20:16:54.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> hola mi amor
+[16Apr2025 20:16:56.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <palmervf> a cuantos fpps les anda
+[16Apr2025 20:17:04.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> a mi a 60
