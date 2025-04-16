@@ -135,3 +135,9 @@
 [16Apr2025 02:35:44.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sxptimo joined the game
 [16Apr2025 02:38:09.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sxptimo: Shrinking the world border to 7000000.0 block(s) wide over 120 second(s)]
 [16Apr2025 02:44:08.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sxptimo has made the advancement [Hot Stuff]
+[16Apr2025 02:46:31.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sxptimo> 129 106 206
+[16Apr2025 02:46:38.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sxptimo has made the advancement [Sweet Dreams]
+[16Apr2025 02:46:44.554] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xrozamelanox lost connection: Disconnected
+[16Apr2025 02:46:44.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox left the game
+[16Apr2025 02:47:13.761] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xrozamelanox[/127.158.126.241:46581] logged in with entity id 10862 at (64.51249998807907, 11.0, 145.30000001192093)
+[16Apr2025 02:47:13.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox joined the game
