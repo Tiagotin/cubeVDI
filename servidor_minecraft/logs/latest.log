@@ -151,3 +151,9 @@
 [16Apr2025 02:58:32.864] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabzz0409[/127.90.73.131:46943] logged in with entity id 16458 at (99.93152006738542, 78.0, 212.80399334979532)
 [16Apr2025 02:58:32.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabzz0409 joined the game
 [16Apr2025 02:59:01.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox has made the advancement [Suit Up]
+[16Apr2025 03:08:34.862] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabzz0409 lost connection: Disconnected
+[16Apr2025 03:08:34.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabzz0409 left the game
+[16Apr2025 03:10:14.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xrozamelanox lost connection: Disconnected
+[16Apr2025 03:10:14.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox left the game
+[16Apr2025 03:10:24.110] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xrozamelanox[/127.158.126.241:44023] logged in with entity id 22761 at (64.17201985332665, 63.0, 163.02517066182673)
+[16Apr2025 03:10:24.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox joined the game

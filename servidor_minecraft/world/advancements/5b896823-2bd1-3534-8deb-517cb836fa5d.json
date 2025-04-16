@@ -1028,7 +1028,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2025-04-16 02:34:38 +0000"
+      "cooked_porkchop": "2025-04-16 02:34:38 +0000",
+      "apple": "2025-04-16 03:02:56 +0000"
     },
     "done": false
   },
@@ -1149,6 +1150,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-04-16 02:41:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-16 03:11:09 +0000"
     },
     "done": true
   },
