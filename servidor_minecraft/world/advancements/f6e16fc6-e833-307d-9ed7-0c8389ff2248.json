@@ -15,6 +15,7 @@
       "minecraft:swamp": "2025-04-16 03:42:32 +0000",
       "minecraft:forest": "2025-04-16 02:14:25 +0000",
       "minecraft:windswept_forest": "2025-04-16 03:41:46 +0000",
+      "minecraft:ocean": "2025-04-16 15:30:54 +0000",
       "minecraft:windswept_savanna": "2025-04-16 03:42:52 +0000",
       "minecraft:plains": "2025-04-16 02:05:14 +0000"
     },
@@ -1049,6 +1050,24 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-04-16 03:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-16 15:26:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-16 15:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-16 15:33:26 +0000"
     },
     "done": true
   },
