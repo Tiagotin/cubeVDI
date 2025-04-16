@@ -141,3 +141,13 @@
 [16Apr2025 02:46:44.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox left the game
 [16Apr2025 02:47:13.761] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xrozamelanox[/127.158.126.241:46581] logged in with entity id 10862 at (64.51249998807907, 11.0, 145.30000001192093)
 [16Apr2025 02:47:13.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox joined the game
+[16Apr2025 02:56:59.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabzz0409 fell from a high place
+[16Apr2025 02:57:12.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabzz0409 fell from a high place
+[16Apr2025 02:57:49.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox has made the advancement [Sweet Dreams]
+[16Apr2025 02:58:24.786] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabzz0409 lost connection: puto
+[16Apr2025 02:58:24.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabzz0409 left the game
+[16Apr2025 02:58:24.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sxptimo: Kicked fabzz0409: puto]
+[16Apr2025 02:58:24.811] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Apr2025 02:58:32.864] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabzz0409[/127.90.73.131:46943] logged in with entity id 16458 at (99.93152006738542, 78.0, 212.80399334979532)
+[16Apr2025 02:58:32.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabzz0409 joined the game
+[16Apr2025 02:59:01.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox has made the advancement [Suit Up]
