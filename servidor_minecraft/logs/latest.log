@@ -179,3 +179,14 @@
 [16Apr2025 03:27:41.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox has made the advancement [We Need to Go Deeper]
 [16Apr2025 03:30:52.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox burned to death
 [16Apr2025 03:31:32.537] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=398, y=65, z=708} BlockPos{x=396, y=63, z=708}
+[16Apr2025 03:39:15.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=81, y=72, z=217} BlockPos{x=82, y=70, z=218}
+[16Apr2025 03:41:02.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox has made the advancement [The Parrots and the Bats]
+[16Apr2025 03:45:20.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sxptimo: Kicked fabzz0409: Kicked by an operator]
+[16Apr2025 03:45:20.558] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fabzz0409 lost connection: Kicked by an operator
+[16Apr2025 03:45:20.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabzz0409 left the game
+[16Apr2025 03:45:35.509] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabzz0409[/127.90.73.131:39111] logged in with entity id 41580 at (300.8762150254739, 63.0, 365.57745629778316)
+[16Apr2025 03:45:35.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabzz0409 joined the game
+[16Apr2025 03:51:20.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sxptimo: The difficulty has been set to Hard]
+[16Apr2025 03:52:22.859] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xrozamelanox lost connection: Disconnected
+[16Apr2025 03:52:22.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox left the game
+[16Apr2025 03:54:02.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sxptimo: Teleported fabzz0409 to Sxptimo]

@@ -7,10 +7,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-04-16 03:53:34 +0000",
+      "minecraft:birch_forest": "2025-04-16 03:41:51 +0000",
       "minecraft:windswept_hills": "2025-04-16 02:26:14 +0000",
       "minecraft:beach": "2025-04-16 02:12:52 +0000",
       "minecraft:river": "2025-04-16 02:13:04 +0000",
+      "minecraft:swamp": "2025-04-16 03:42:32 +0000",
       "minecraft:forest": "2025-04-16 02:14:25 +0000",
+      "minecraft:windswept_forest": "2025-04-16 03:41:46 +0000",
+      "minecraft:windswept_savanna": "2025-04-16 03:42:52 +0000",
       "minecraft:plains": "2025-04-16 02:05:14 +0000"
     },
     "done": false
@@ -516,7 +521,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-04-16 03:00:27 +0000",
-      "cooked_beef": "2025-04-16 02:15:55 +0000"
+      "cooked_beef": "2025-04-16 02:15:55 +0000",
+      "apple": "2025-04-16 03:46:28 +0000",
+      "rotten_flesh": "2025-04-16 03:53:09 +0000"
     },
     "done": false
   },
@@ -960,21 +967,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-04-16 03:29:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-16 03:26:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-04-16 03:29:41 +0000"
     },
     "done": true
   },
@@ -1014,9 +1009,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-16 03:29:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-16 03:29:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-04-16 03:29:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-04-16 03:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-04-16 03:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-16 03:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-16 03:47:34 +0000"
     },
     "done": true
   },
