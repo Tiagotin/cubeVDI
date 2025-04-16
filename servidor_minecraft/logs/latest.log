@@ -82,3 +82,9 @@
 [16Apr2025 14:33:28.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=56, y=73, z=-191} BlockPos{x=58, y=71, z=-191}
 [16Apr2025 14:36:55.722] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tried1050TI lost connection: Disconnected
 [16Apr2025 14:36:55.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tried1050TI left the game
+[16Apr2025 14:46:34.670] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EiSanMor[/127.121.101.213:47321] logged in with entity id 1942 at (-4.5, 74.0, 9.5)
+[16Apr2025 14:46:34.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EiSanMor joined the game
+[16Apr2025 14:46:34.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EiSanMor lost connection: Disconnected
+[16Apr2025 14:46:34.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EiSanMor left the game
+[16Apr2025 14:47:33.023] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EiSanMor[/127.121.101.213:48109] logged in with entity id 1996 at (-4.5, 74.0, 9.5)
+[16Apr2025 14:47:33.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EiSanMor joined the game
