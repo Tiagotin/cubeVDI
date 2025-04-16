@@ -1,6 +1,13 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 0 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1744691266666 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1744768861532 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tASZAAAAAQAAAAEAAAAAAAAAABAuD7r7GhscE_ZCxk3O1HiMB_VZbdellekv1OicpHyE
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY8VAWZAAAAAQAAAAEAAAAAAAAAAEw3bxLsIO7v1ZD28EJa4rWh3w_zGtEOcWg_E50IyrsU
+
+TUNNELS
+small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744768864718 tunnel running, 2 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY8VAWZAAAAAQAAAAEAAAAAAAAAAEw3bxLsIO7v1ZD28EJa4rWh3w_zGtEOcWg_E50IyrsU
 
 TUNNELS
 small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
@@ -8,358 +15,44 @@ dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1744691282308 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744768879900 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tEMsAAAAAQAAAAEAAAAAAAAAAPLE_7_gSz1UsqgXS4-GMEMfpuqbZM8ypTzTpBSses2K
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691285961 tunnel running, 0 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tEMsAAAAAQAAAAEAAAAAAAAAAPLE_7_gSz1UsqgXS4-GMEMfpuqbZM8ypTzTpBSses2K
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/bd395ac9-4477-49ab-9bdb-cdec267b4d3f
-[2J8[0mplayit (v0.15.26): 1744691289458 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tEMsAAAAAQAAAAEAAAAAAAAAAPLE_7_gSz1UsqgXS4-GMEMfpuqbZM8ypTzTpBSses2K
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY8VE2DAAAAAQAAAAEAAAAAAAAAALR4-9tL6OgQcT-iPE_igTeUKbAbFJoG9vQbq7MhZzhd
 
 TUNNELS
 small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691292829 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744768883106 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tEMsAAAAAQAAAAEAAAAAAAAAAPLE_7_gSz1UsqgXS4-GMEMfpuqbZM8ypTzTpBSses2K
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691304769 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tJylAAAAAQAAAAEAAAAAAAAAAOOCBQ2aQlgDUvHwWkzfjf4hTYAU3fJfx61-YhwaSsw2
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY8VE2DAAAAAQAAAAEAAAAAAAAAALR4-9tL6OgQcT-iPE_igTeUKbAbFJoG9vQbq7MhZzhd
 
 TUNNELS
 small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691308987 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744768886180 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tJylAAAAAQAAAAEAAAAAAAAAAOOCBQ2aQlgDUvHwWkzfjf4hTYAU3fJfx61-YhwaSsw2
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691312068 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tJylAAAAAQAAAAEAAAAAAAAAAOOCBQ2aQlgDUvHwWkzfjf4hTYAU3fJfx61-YhwaSsw2
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY8VE2DAAAAAQAAAAEAAAAAAAAAALR4-9tL6OgQcT-iPE_igTeUKbAbFJoG9vQbq7MhZzhd
 
 TUNNELS
 small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691315151 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744768889475 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tJylAAAAAQAAAAEAAAAAAAAAAOOCBQ2aQlgDUvHwWkzfjf4hTYAU3fJfx61-YhwaSsw2
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691318264 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tJylAAAAAQAAAAEAAAAAAAAAAOOCBQ2aQlgDUvHwWkzfjf4hTYAU3fJfx61-YhwaSsw2
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY8VE2DAAAAAQAAAAEAAAAAAAAAALR4-9tL6OgQcT-iPE_igTeUKbAbFJoG9vQbq7MhZzhd
 
 TUNNELS
 small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691321364 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744768892625 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tNpSAAAAAQAAAAEAAAAAAAAAAO4kNSrvEOwePfNB1ws8fBvTmMJ7xSrR6VbBQBlRbVW-
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691324537 tunnel running, 0 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tNpSAAAAAQAAAAEAAAAAAAAAAO4kNSrvEOwePfNB1ws8fBvTmMJ7xSrR6VbBQBlRbVW-
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/bd395ac9-4477-49ab-9bdb-cdec267b4d3f
-[2J8[0mplayit (v0.15.26): 1744691327728 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tNpSAAAAAQAAAAEAAAAAAAAAAO4kNSrvEOwePfNB1ws8fBvTmMJ7xSrR6VbBQBlRbVW-
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY8VE2DAAAAAQAAAAEAAAAAAAAAALR4-9tL6OgQcT-iPE_igTeUKbAbFJoG9vQbq7MhZzhd
 
 TUNNELS
 small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691331225 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744768895726 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tNpSAAAAAQAAAAEAAAAAAAAAAO4kNSrvEOwePfNB1ws8fBvTmMJ7xSrR6VbBQBlRbVW-
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691334852 tunnel running, 0 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tNpSAAAAAQAAAAEAAAAAAAAAAO4kNSrvEOwePfNB1ws8fBvTmMJ7xSrR6VbBQBlRbVW-
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/bd395ac9-4477-49ab-9bdb-cdec267b4d3f
-[2J8[0mplayit (v0.15.26): 1744691338175 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tR34AAAAAQAAAAEAAAAAAAAAAA1DGoOmnl-i6ZivLz23BtJXIQSkxC8TowqrN37x56zR
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691342442 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tR34AAAAAQAAAAEAAAAAAAAAAA1DGoOmnl-i6ZivLz23BtJXIQSkxC8TowqrN37x56zR
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691346222 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tR34AAAAAQAAAAEAAAAAAAAAAA1DGoOmnl-i6ZivLz23BtJXIQSkxC8TowqrN37x56zR
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691349422 tunnel running, 0 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tR34AAAAAQAAAAEAAAAAAAAAAA1DGoOmnl-i6ZivLz23BtJXIQSkxC8TowqrN37x56zR
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/bd395ac9-4477-49ab-9bdb-cdec267b4d3f
-[2J8[0mplayit (v0.15.26): 1744691352875 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tR34AAAAAQAAAAEAAAAAAAAAAA1DGoOmnl-i6ZivLz23BtJXIQSkxC8TowqrN37x56zR
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691355961 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tWGFAAAAAQAAAAEAAAAAAAAAAEq26JpSWZI8fL6enGumMj-yz7QdHp96vusF7TFI9AIx
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691359267 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tWGFAAAAAQAAAAEAAAAAAAAAAEq26JpSWZI8fL6enGumMj-yz7QdHp96vusF7TFI9AIx
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691364153 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tWGFAAAAAQAAAAEAAAAAAAAAAEq26JpSWZI8fL6enGumMj-yz7QdHp96vusF7TFI9AIx
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691367543 tunnel running, 0 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tWGFAAAAAQAAAAEAAAAAAAAAAEq26JpSWZI8fL6enGumMj-yz7QdHp96vusF7TFI9AIx
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/bd395ac9-4477-49ab-9bdb-cdec267b4d3f
-[2J8[0mplayit (v0.15.26): 1744691370717 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tWGFAAAAAQAAAAEAAAAAAAAAAEq26JpSWZI8fL6enGumMj-yz7QdHp96vusF7TFI9AIx
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691373799 tunnel running, 0 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tadMAAAAAQAAAAEAAAAAAAAAAIKh2-G7BmReXAliN0vCvHbnfWAgCAmsrdPLZ_mvEH8f
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/bd395ac9-4477-49ab-9bdb-cdec267b4d3f
-[2J8[0mplayit (v0.15.26): 1744691376997 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tadMAAAAAQAAAAEAAAAAAAAAAIKh2-G7BmReXAliN0vCvHbnfWAgCAmsrdPLZ_mvEH8f
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691380748 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tadMAAAAAQAAAAEAAAAAAAAAAIKh2-G7BmReXAliN0vCvHbnfWAgCAmsrdPLZ_mvEH8f
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691384404 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tadMAAAAAQAAAAEAAAAAAAAAAIKh2-G7BmReXAliN0vCvHbnfWAgCAmsrdPLZ_mvEH8f
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691387485 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tadMAAAAAQAAAAEAAAAAAAAAAIKh2-G7BmReXAliN0vCvHbnfWAgCAmsrdPLZ_mvEH8f
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691390970 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3teuHAAAAAQAAAAEAAAAAAAAAAPBKJIP001nn_t_h9KoqyDg4CRl83BuWRcJeh9pO1RG-
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691395123 tunnel running, 0 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3teuHAAAAAQAAAAEAAAAAAAAAAPBKJIP001nn_t_h9KoqyDg4CRl83BuWRcJeh9pO1RG-
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/bd395ac9-4477-49ab-9bdb-cdec267b4d3f
-[2J8[0mplayit (v0.15.26): 1744691399099 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3teuHAAAAAQAAAAEAAAAAAAAAAPBKJIP001nn_t_h9KoqyDg4CRl83BuWRcJeh9pO1RG-
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691402825 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3teuHAAAAAQAAAAEAAAAAAAAAAPBKJIP001nn_t_h9KoqyDg4CRl83BuWRcJeh9pO1RG-
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691405905 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3teuHAAAAAQAAAAEAAAAAAAAAAPBKJIP001nn_t_h9KoqyDg4CRl83BuWRcJeh9pO1RG-
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691408983 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tjCIAAAAAQAAAAEAAAAAAAAAAFE6_7n5CFYIfN3gMaWnWXquY_LWI1CnJ5kXJg8u94oJ
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691412389 tunnel running, 0 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tjCIAAAAAQAAAAEAAAAAAAAAAFE6_7n5CFYIfN3gMaWnWXquY_LWI1CnJ5kXJg8u94oJ
-
-TUNNELS
-Add tunnels here: https://playit.gg/account/agents/bd395ac9-4477-49ab-9bdb-cdec267b4d3f
-[2J8[0mplayit (v0.15.26): 1744691415508 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tjCIAAAAAQAAAAEAAAAAAAAAAFE6_7n5CFYIfN3gMaWnWXquY_LWI1CnJ5kXJg8u94oJ
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 ([2J8[0mplayit (v0.15.26): 1744691415539 tunnel running, 2 tunnels registered
-[2J8[0mplayit (v0.15.26): 1744691418924 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tjCIAAAAAQAAAAEAAAAAAAAAAFE6_7n5CFYIfN3gMaWnWXquY_LWI1CnJ5kXJg8u94oJ
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691422539 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tjCIAAAAAQAAAAEAAAAAAAAAAFE6_7n5CFYIfN3gMaWnWXquY_LWI1CnJ5kXJg8u94oJ
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691425611 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tnF7AAAAAQAAAAEAAAAAAAAAAPYDzEAQKQM_tGZQNJ8IT0DFS-5ohi_Dtl7POZbI-WUQ
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691428805 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tnF7AAAAAQAAAAEAAAAAAAAAAPYDzEAQKQM_tGZQNJ8IT0[2J8[0mplayit (v0.15.26): 1744691428810 tunnel running, 0 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tmI-AA[2J8[0mplayit (v0.15.26): 1744691432066 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tnF7AAAAAQAAAAEAAAAAAAAAAPYDzEAQKQM_tGZQNJ8IT0DFS-5ohi_Dtl7POZbI-WUQ
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691435365 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tnF7AAAAAQAAAAEAAAAAAAAAAPYDzEAQKQM_tGZQNJ8IT0DFS-5ohi_Dtl7POZbI-WUQ
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691438527 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tnF7AA[2J8[0mplayit (v0.15.26): 1744691438586 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tqYDAAAAAQAAAAEAAAAAAAAAAAUDNODGdRwqyrePndpLqE[2J8[0mplayit (v0.15.26): 1744691442782 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3trTvAAAAAQAAAAEAAAAAAAAAAHAhSlVWfdR_SMfpsoSbOGG5LIEIsoikP-pFpqqQUZH9
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691447557 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3trTvAAAAAQAAAAEAAAAAAAAAAHAhSlVWfdR_SMfpsoSbOGG5LIEIsoikP-pFpqqQUZH9
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691450621 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3trTvAAAAAQAAAAEAAAAAAAAAAHAhSlVWfdR_SMfpsoSbOGG5LIEIsoikP-pFpqqQUZH9
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691453691 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3trTvAAAAAQAAAAEAAAAAAAAAAHAhSlVWfdR_SMfpsoSbOGG5LIEIsoikP-pFpqqQUZH9
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691457027 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3trTvAAAAAQAAAAEAAAAAAAAAAHAhSlVWfdR_SMfpsoSbOGG5LIEIsoikP-pFpqqQUZH9
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691460098 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tvhAAAAAAQAAAAEAAAAAAAAAAF3R7mcOp3mP4F1afVA2Arg4PDjT5jenIKwmlExZWY9z
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691463265 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tvhAAAAAAQAAAAEAAAAAAAAAAF3R7mcOp3mP4F1afVA2Arg4PDjT5jenIKwmlExZWY9z
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691466993 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tvhAAAAAAQAAAAEAAAAAAAAAAF3R7mcOp3mP4F1afVA2Arg4PDjT5jenIKwmlExZWY9z
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691470887 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3tvhAAAAAAQAAAAEAAAAAAAAAAF3R7mcOp3mP4F1afVA2Arg4PDjT5jenIKwmlExZWY9z
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY8VIttAAAAAQAAAAEAAAAAAAAAAB5P6njmVRLSYczXrhMyQWy9maq47_5r-_LO8mCZVcK7
 
 TUNNELS
 small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
@@ -367,196 +60,55 @@ dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-[2J8[0mplayit (v0.15.26): 1744691486052 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744768911208 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3t13hAAAAAQAAAAEAAAAAAAAAAKKX8osbKMEfliWEBP8iRqG0IM-J-1eN4A1tlo9-YbHR
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691489346 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3t13hAAAAAQAAAAEAAAAAAAAAAKKX8osbKMEfliWEBP8iRqG0IM-J-1eN4A1tlo9-YbHR
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY8VMeQAAAAAQAAAAEAAAAAAAAAAHBQthUaU1FbywVF9ZxvdN_iHFIHLq0125JywH3bE5Ou
 
 TUNNELS
 small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691492476 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744768914331 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3t13hAAAAAQAAAAEAAAAAAAAAAKKX8osbKMEfliWEBP8iRqG0IM-J-1eN4A1tlo9-YbHR
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691496637 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3t13hAAAAAQAAAAEAAAAAAAAAAKKX8osbKMEfliWEBP8iRqG0IM-J-1eN4A1tlo9-YbHR
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY8VMeQAAAAAQAAAAEAAAAAAAAAAHBQthUaU1FbywVF9ZxvdN_iHFIHLq0125JywH3bE5Ou
 
 TUNNELS
 small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691501536 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744768917462 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3t5rZAAAAAQAAAAEAAAAAAAAAAO1_e0BWrlsCAFpyN5fkxLWyui3WMy1Dz5Dzg4APc4uY
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691506919 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3t5rZAAAAAQAAAAEAAAAAAAAAAO1_e0BWrlsCAFpyN5fkxLWyui3WMy1Dz5Dzg4APc4uY
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY8VMeQAAAAAQAAAAEAAAAAAAAAAHBQthUaU1FbywVF9ZxvdN_iHFIHLq0125JywH3bE5Ou
 
 TUNNELS
 small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691510008 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744768920802 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3t5rZAAAAAQAAAAEAAAAAAAAAAO1_e0BWrlsCAFpyN5fkxLWyui3WMy1Dz5Dzg4APc4uY
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691513103 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3t5rZAAAAAQAAAAEAAAAAAAAAAO1_e0BWrlsCAFpyN5fkxLWyui3WMy1Dz5Dzg4APc4uY
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY8VMeQAAAAAQAAAAEAAAAAAAAAAHBQthUaU1FbywVF9ZxvdN_iHFIHLq0125JywH3bE5Ou
 
 TUNNELS
 small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691516656 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744768923916 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3t5rZAAAAAQAAAAEAAAAAAAAAAO1_e0BWrlsCAFpyN5fkxLWyui3WMy1Dz5Dzg4APc4uY
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691520028 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3t-MzAAAAAQAAAAEAAAAAAAAAAAOETTuFHe8de6AGfIQrWRYgxX-LmcWRykXtSutqQ7aO
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY8VMeQAAAAAQAAAAEAAAAAAAAAAHBQthUaU1FbywVF9ZxvdN_iHFIHLq0125JywH3bE5Ou
 
 TUNNELS
 small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691523810 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744768927089 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3t-MzAAAAAQAAAAEAAAAAAAAAAAOETTuFHe8de6AGfIQrWRYgxX-LmcWRykXtSutqQ7aO
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691527463 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3t-MzAAAAAQAAAAEAAAAAAAAAAAOETTuFHe8de6AGfIQrWRYgxX-LmcWRykXtSutqQ7aO
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY8VQXUAAAAAQAAAAEAAAAAAAAAADXiJ7r0QTQQg3Z34M2_dz3WK5R3ijotQ4QejmnErTbb
 
 TUNNELS
 small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691531845 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1744768930466 tunnel running, 2 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3t-MzAAAAAQAAAAEAAAAAAAAAAAOETTuFHe8de6AGfIQrWRYgxX-LmcWRykXtSutqQ7aO
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691535315 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3t-MzAA[2J8[0mplayit (v0.15.26): 1744691539293 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3uC6FAAAAAQAAAAEAAAAAAAAAAP2lK4rakkL7yzGzH_MGUapHycLr3Do70XoHriAd53Fa
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY8VQXUAAAAAQAAAAEAAAAAAAAAADXiJ7r0QTQQg3Z34M2_dz3WK5R3ijotQ4QejmnErTbb
 
 TUNNELS
 small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691542821 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3uC6FAAAAAQAAAAEAAAAAAAAAAP2lK4rakkL7yzGzH_MGUapHycLr3Do70XoHriAd53Fa
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691546228 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3uC6FAAAAAQAAAAEAAAAAAAAAAP2lK4rakkL7yzGzH_MGUapHycLr3Do70XoHriAd53Fa
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691549433 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3uC6FAAAAAQAAAAEAAAAAAAAAAP2lK4rakkL7yzGzH_MGUa[2J8[0mplayit (v0.15.26): 1744691551033 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3uCycAA[2J8[0mplayit (v0.15.26): 1744691553087 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3uC6FAAAAAQAAAAEAAAAAAAAAAP2lK4rakkL7yzGzH_MGUapHycLr3Do70XoHriAd53Fa
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-K94Kt7zBiHEkzsKu6r6I8B
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691524492 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3t7tcAAAAAQAAAAEAAAAAAAAAABnv8TqsOtrGlFZf6GQBIsK94Kt7zBiHEkzsKu6r6I8B
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691527568 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3t__CAAAAAQAAAAEAAAAAAAAAAMTvSsdPdnbmIdkaC6S7_BI9qRJnWahTa1wH97iyF-E_
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691530887 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3t__CAAAAAQAAAAEAAAAAAAAAAMTvSsdPdnbmIdkaC6S7_BI9qRJnWahTa1wH97iyF-E_
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691534628 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3t__CAAAAAQAAAAEAAAAAAAAAAMTvSsdPdnbmIdkaC6S7_BI9qRJnWahTa1wH97iyF-E_
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691538578 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3t__CAAAAAQAAAAEAAAAAAAAAAMTvSsdPdnbmIdkaC6S7_BI9qRJnWahTa1wH97iyF-E_
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691542337 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3t__CAAAAAQAAAAEAAAAAAAAAAMTvSsdPdnbmIdkaC6S7_BI9qRJnWahTa1wH97iyF-E_
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691545960 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3uEjrAAAAAQAAAAEAAAAAAAAAAIVUm-4lnh-Y0GQR_RNJQhDQcZIIMHMYO8c-P1TARJBj
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691550151 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3uEjrAAAAAQAAAAEAAAAAAAAAAIVUm-4lnh-Y0GQR_RNJQhDQcZIIMHMYO8c-P1TARJBj
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1744691553474 tunnel running, 2 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAABKTZgAAAZY3uEjrAAAAAQAAAAEAAAAAAAAAAIVUm-4lnh-Y0GQR_RNJQhDQcZIIMHMYO8c-P1TARJBj
-
-TUNNELS
-small-grades.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-dance-copper.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
