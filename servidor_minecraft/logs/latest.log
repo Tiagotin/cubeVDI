@@ -157,3 +157,22 @@
 [16Apr2025 03:10:14.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox left the game
 [16Apr2025 03:10:24.110] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xrozamelanox[/127.158.126.241:44023] logged in with entity id 22761 at (64.17201985332665, 63.0, 163.02517066182673)
 [16Apr2025 03:10:24.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox joined the game
+[16Apr2025 03:18:57.412] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fabzz0409[/127.90.73.131:60073] logged in with entity id 27808 at (118.67497141433115, 105.0, 202.8281834607658)
+[16Apr2025 03:18:57.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fabzz0409 joined the game
+[16Apr2025 03:19:13.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sxptimo has made the advancement [We Need to Go Deeper]
+[16Apr2025 03:20:48.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sxptimo> 384 64 708
+[16Apr2025 03:21:59.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sxptimo: Kicked xrozamelanox: Kicked by an operator]
+[16Apr2025 03:21:59.560] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xrozamelanox lost connection: Kicked by an operator
+[16Apr2025 03:21:59.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox left the game
+[16Apr2025 03:22:15.215] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xrozamelanox[/127.158.126.241:39195] logged in with entity id 29408 at (172.2307021084014, 72.0, 120.95756212088197)
+[16Apr2025 03:22:15.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox joined the game
+[16Apr2025 03:22:21.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sxptimo has made the advancement [Monster Hunter]
+[16Apr2025 03:22:30.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox has made the advancement [Not Today, Thank You]
+[16Apr2025 03:23:07.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sxptimo has made the advancement [A Seedy Place]
+[16Apr2025 03:23:50.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sxptimo> 384 64 710
+[16Apr2025 03:24:40.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xrozamelanox) moved wrongly! 0.646240234375
+[16Apr2025 03:24:40.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xrozamelanox) moved wrongly! 0.6510966154746711
+[16Apr2025 03:24:40.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xrozamelanox) moved wrongly! 0.6603549378231719
+[16Apr2025 03:24:40.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xrozamelanox) moved wrongly! 0.6736154456825716
+[16Apr2025 03:24:40.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xrozamelanox) moved wrongly! 0.690517396376265
+[16Apr2025 03:24:40.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xrozamelanox) moved wrongly! 0.7107237470209498
