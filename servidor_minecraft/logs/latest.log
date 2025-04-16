@@ -69,3 +69,35 @@
 [16Apr2025 20:16:54.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> hola mi amor
 [16Apr2025 20:16:56.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <palmervf> a cuantos fpps les anda
 [16Apr2025 20:17:04.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> a mi a 60
+[16Apr2025 20:18:41.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: palmervf lost connection: Disconnected
+[16Apr2025 20:18:41.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: palmervf left the game
+[16Apr2025 20:20:49.761] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tried1050TI[/127.248.45.66:45949] logged in with entity id 3905 at (181.83734314456336, 63.0, -287.79588856697745)
+[16Apr2025 20:20:49.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tried1050TI joined the game
+[16Apr2025 20:20:53.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tried1050TI> q onda
+[16Apr2025 20:20:54.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tried1050TI> maca
+[16Apr2025 20:20:55.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tried1050TI> ds?
+[16Apr2025 20:21:04.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tried1050TI> estamos tiago palmer fabri y yo
+[16Apr2025 20:21:04.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> si parame q ando en agua
+[16Apr2025 20:21:32.810] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: palmervf[/127.99.239.131:40569] logged in with entity id 4358 at (100.35074752728865, 71.0, 68.86371578777484)
+[16Apr2025 20:21:32.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: palmervf joined the game
+[16Apr2025 20:22:23.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tried1050TI fell from a high place
+[16Apr2025 20:22:38.974] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-15, y=78, z=-13}
+[16Apr2025 20:22:39.020] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-15, y=78, z=-13}
+[16Apr2025 20:22:39.074] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-15, y=78, z=-13}
+[16Apr2025 20:23:08.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tried1050TI lost connection: Disconnected
+[16Apr2025 20:23:08.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tried1050TI left the game
+[16Apr2025 20:23:10.351] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: palmervf lost connection: Disconnected
+[16Apr2025 20:23:10.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: palmervf left the game
+[16Apr2025 20:23:13.052] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xrozamelanox lost connection: Disconnected
+[16Apr2025 20:23:13.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox left the game
+[16Apr2025 20:23:16.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16Apr2025 20:23:16.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Apr2025 20:23:16.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Apr2025 20:23:16.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Apr2025 20:23:16.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16Apr2025 20:23:17.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16Apr2025 20:23:17.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16Apr2025 20:23:17.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16Apr2025 20:23:17.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Apr2025 20:23:17.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Apr2025 20:23:17.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
