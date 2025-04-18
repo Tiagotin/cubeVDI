@@ -1337,3 +1337,21 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Apr2025 01:09:46.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Apr2025 01:14:46.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Apr2025 01:14:46.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 01:19:46.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 01:19:46.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 01:24:46.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 01:24:46.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 01:27:21.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tutoturbo568 was slain by Zombie
+[18Apr2025 01:29:46.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 01:29:46.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 01:29:51.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tutoturbo568 was slain by Zombie
+[18Apr2025 01:30:14.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tutoturbo568 was shot by Skeleton
+[18Apr2025 01:31:06.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tutoturbo568 was slain by Zombie
+[18Apr2025 01:31:46.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tutoturbo568 was slain by Zombie
+[18Apr2025 01:31:48.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tutoturbo568> ASD
+[18Apr2025 01:32:00.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tutoturbo568> asd
+[18Apr2025 01:33:10.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tutoturbo568 was slain by Zombie
+[18Apr2025 01:34:46.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 01:34:46.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 01:39:46.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 01:39:46.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
