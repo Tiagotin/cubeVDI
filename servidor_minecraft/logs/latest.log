@@ -123,3 +123,5 @@
 [18Apr2025 02:13:36.938] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EiSanMor lost connection: Disconnected
 [18Apr2025 02:13:36.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EiSanMor left the game
 [18Apr2025 02:18:40.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tutoturbo568 was shot by Skeleton
+[18Apr2025 02:39:48.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tutoturbo568 lost connection: Disconnected
+[18Apr2025 02:39:48.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tutoturbo568 left the game
