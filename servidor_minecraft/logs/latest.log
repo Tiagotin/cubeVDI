@@ -1,119 +1,86 @@
-[20Apr2025 17:50:17.564] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 45.3.3, --fml.mcVersion, 1.19.4, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230314.122934, nogui]
-[20Apr2025 17:50:17.570] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[20Apr2025 17:50:17.950] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/cubeVDI/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[20Apr2025 17:50:18.389] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubeVDI/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.4-45.3.3/fmlcore-1.19.4-45.3.3.jar is missing mods.toml file
-[20Apr2025 17:50:18.391] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubeVDI/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.4-45.3.3/javafmllanguage-1.19.4-45.3.3.jar is missing mods.toml file
-[20Apr2025 17:50:18.393] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubeVDI/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.4-45.3.3/lowcodelanguage-1.19.4-45.3.3.jar is missing mods.toml file
-[20Apr2025 17:50:18.395] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubeVDI/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.4-45.3.3/mclanguage-1.19.4-45.3.3.jar is missing mods.toml file
-[20Apr2025 17:50:18.856] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[20Apr2025 17:50:21.406] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[20Apr2025 17:50:21.494] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
-[20Apr2025 17:50:21.496] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[20Apr2025 17:50:21.500] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[20Apr2025 17:50:21.542] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
-[20Apr2025 17:50:21.545] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
-[20Apr2025 17:50:21.557] [main/WARN] [mixin/]: Reference map 'nerb-forge-refmap.json' for nerb.mixins.json could not be read. If this is a development environment you can ignore this message
-[20Apr2025 17:50:22.283] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[20Apr2025 17:50:22.284] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[20Apr2025 17:50:22.284] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[20Apr2025 17:50:22.285] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[20Apr2025 17:50:22.285] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[20Apr2025 17:50:22.286] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[20Apr2025 17:50:22.310] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[20Apr2025 17:50:22.312] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[20Apr2025 17:50:22.557] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[20Apr2025 17:50:30.231] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 45.3.3, for MC 1.19.4 with MCP 20230314.122934
-[20Apr2025 17:50:30.232] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v45.3.3 Initialized
-[20Apr2025 17:50:31.892] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
-[20Apr2025 17:50:32.064] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[20Apr2025 17:50:32.069] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[20Apr2025 17:50:32.683] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[20Apr2025 17:50:33.234] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 45.3.3 Target: 45.4.0
-[20Apr2025 17:50:33.235] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.19.4
-[20Apr2025 17:50:33.647] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA_OUTDATED Current: 10.0.0.3 Target: 10.0.0.4
-[20Apr2025 17:50:33.648] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[20Apr2025 17:50:33.871] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.9 Target: 1.9.12
-[20Apr2025 17:50:34.957] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20Apr2025 17:50:35.043] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
-monster_hunter_villager (version 1.0.0 -> MISSING)
-Things may not work well.
-[20Apr2025 17:50:35.125] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:block
-	monster_hunter_villager:hunters_table: 998
-
-[20Apr2025 17:50:35.126] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:entity_type
-	monster_hunter_villager:projectile_sticky_trap_projectile: 124
-	monster_hunter_villager:sticky_trap: 125
-
-[20Apr2025 17:50:35.126] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:item
-	monster_hunter_villager:hunters_table: 1230
-	monster_hunter_villager:sticky_trap_item: 1228
-	monster_hunter_villager:sticky_trap_projectile: 1229
-
-[20Apr2025 17:50:35.127] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:point_of_interest_type
-	monster_hunter_villager:monster_hunter: 20
-
-[20Apr2025 17:50:35.127] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:villager_profession
-	monster_hunter_villager:monster_hunter: 15
-
-[20Apr2025 17:50:35.129] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Forge Mod Loader detected missing registry entries.
-
-There are 8 missing entries in this save.
-If you continue the missing entries will get removed.
-A world backup will be automatically created in your saves directory.
-
-
-[20Apr2025 17:50:35.130] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Missing minecraft:villager_profession:
-    monster_hunter_villager:monster_hunter
-
-Missing minecraft:item:
-    monster_hunter_villager:hunters_table
-    monster_hunter_villager:sticky_trap_item
-    monster_hunter_villager:sticky_trap_projectile
-
-Missing minecraft:block:
-    monster_hunter_villager:hunters_table
-
-Missing minecraft:point_of_interest_type:
-    monster_hunter_villager:monster_hunter
-
-Missing minecraft:entity_type:
-    monster_hunter_villager:projectile_sticky_trap_projectile
-    monster_hunter_villager:sticky_trap
-
-
-[20Apr2025 17:50:35.130] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: There are unidentified mappings in this world - we are going to attempt to process anyway
-[20Apr2025 17:50:36.319] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cubeVDI/servidor_minecraft/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23127!/assets/.mcassetsroot' uses unexpected schema
-[20Apr2025 17:50:36.320] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cubeVDI/servidor_minecraft/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23127!/data/.mcassetsroot' uses unexpected schema
-[20Apr2025 17:50:36.382] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:monster_hunter_villager
-[20Apr2025 17:50:38.429] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[20Apr2025 17:50:39.092] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1927 advancements
-[20Apr2025 17:50:40.337] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.4
-[20Apr2025 17:50:40.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[20Apr2025 17:50:40.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[20Apr2025 17:50:40.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[20Apr2025 17:50:40.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[20Apr2025 17:50:40.478] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[20Apr2025 17:50:40.611] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20Apr2025 17:50:40.612] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[20Apr2025 17:50:40.612] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20Apr2025 17:50:40.614] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[20Apr2025 17:50:40.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[20Apr2025 17:50:44.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[20Apr2025 17:50:50.589] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Apr2025 17:50:50.592] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Apr2025 17:50:50.612] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Apr2025 17:50:50.616] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Apr2025 17:50:50.620] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Apr2025 17:50:50.630] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Apr2025 17:50:50.647] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Apr2025 17:50:50.652] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Apr2025 17:50:50.662] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Apr2025 17:50:50.675] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Apr2025 17:50:50.686] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Apr2025 17:50:50.698] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Apr2025 17:50:50.969] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[20Apr2025 17:50:51.469] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
-[20Apr2025 17:50:51.969] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 99%
-[20Apr2025 17:50:51.982] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7014 ms
-[20Apr2025 17:50:51.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.348s)! For help, type "help"
-[20Apr2025 17:50:52.004] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[20Apr2025 20:22:44.838] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 45.3.3, --fml.mcVersion, 1.19.4, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230314.122934, nogui]
+[20Apr2025 20:22:44.842] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[20Apr2025 20:22:45.243] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/cubeVDI/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[20Apr2025 20:22:45.625] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubeVDI/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.4-45.3.3/fmlcore-1.19.4-45.3.3.jar is missing mods.toml file
+[20Apr2025 20:22:45.628] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubeVDI/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.4-45.3.3/javafmllanguage-1.19.4-45.3.3.jar is missing mods.toml file
+[20Apr2025 20:22:45.630] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubeVDI/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.4-45.3.3/lowcodelanguage-1.19.4-45.3.3.jar is missing mods.toml file
+[20Apr2025 20:22:45.632] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/cubeVDI/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.4-45.3.3/mclanguage-1.19.4-45.3.3.jar is missing mods.toml file
+[20Apr2025 20:22:45.963] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[20Apr2025 20:22:48.331] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[20Apr2025 20:22:48.433] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[20Apr2025 20:22:48.435] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[20Apr2025 20:22:48.437] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[20Apr2025 20:22:48.480] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
+[20Apr2025 20:22:48.482] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
+[20Apr2025 20:22:48.494] [main/WARN] [mixin/]: Reference map 'nerb-forge-refmap.json' for nerb.mixins.json could not be read. If this is a development environment you can ignore this message
+[20Apr2025 20:22:49.390] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[20Apr2025 20:22:49.391] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[20Apr2025 20:22:49.391] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[20Apr2025 20:22:49.392] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[20Apr2025 20:22:49.393] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[20Apr2025 20:22:49.393] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[20Apr2025 20:22:49.418] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[20Apr2025 20:22:49.418] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[20Apr2025 20:22:49.755] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[20Apr2025 20:22:57.701] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 45.3.3, for MC 1.19.4 with MCP 20230314.122934
+[20Apr2025 20:22:57.701] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v45.3.3 Initialized
+[20Apr2025 20:22:59.601] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[20Apr2025 20:22:59.696] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[20Apr2025 20:22:59.700] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[20Apr2025 20:23:00.031] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[20Apr2025 20:23:00.548] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 45.3.3 Target: 45.4.0
+[20Apr2025 20:23:00.549] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.19.4
+[20Apr2025 20:23:00.944] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA_OUTDATED Current: 10.0.0.3 Target: 10.0.0.4
+[20Apr2025 20:23:00.944] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[20Apr2025 20:23:01.132] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.9 Target: 1.9.12
+[20Apr2025 20:23:02.697] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20Apr2025 20:23:04.035] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cubeVDI/servidor_minecraft/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23127!/assets/.mcassetsroot' uses unexpected schema
+[20Apr2025 20:23:04.035] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/cubeVDI/servidor_minecraft/libraries/net/minecraft/server/1.19.4-20230314.122934/server-1.19.4-20230314.122934-srg.jar%23127!/data/.mcassetsroot' uses unexpected schema
+[20Apr2025 20:23:06.195] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[20Apr2025 20:23:06.824] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1927 advancements
+[20Apr2025 20:23:07.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.4
+[20Apr2025 20:23:07.935] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[20Apr2025 20:23:07.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[20Apr2025 20:23:07.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[20Apr2025 20:23:08.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[20Apr2025 20:23:08.360] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[20Apr2025 20:23:08.538] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20Apr2025 20:23:08.539] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[20Apr2025 20:23:08.541] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20Apr2025 20:23:08.541] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[20Apr2025 20:23:08.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[20Apr2025 20:23:13.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[20Apr2025 20:23:20.837] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 20:23:20.839] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 20:23:20.840] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 20:23:20.842] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 20:23:20.843] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 20:23:20.846] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 20:23:20.847] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 20:23:20.848] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 20:23:20.850] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 20:23:20.852] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 20:23:20.854] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 20:23:20.855] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 20:23:20.856] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 20:23:20.857] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 20:23:20.858] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 20:23:20.859] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 20:23:21.017] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 20:23:21.515] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 8%
+[20Apr2025 20:23:22.017] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 29%
+[20Apr2025 20:23:22.516] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 66%
+[20Apr2025 20:23:22.811] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9796 ms
+[20Apr2025 20:23:22.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.252s)! For help, type "help"
+[20Apr2025 20:23:22.846] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[20Apr2025 20:26:13.707] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2f73414b[id=<null>,name=xrozamelanox,properties={},legacy=false] (/127.158.126.241:39301) lost connection: Disconnected
+[20Apr2025 20:26:26.798] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@63d7e7de[id=<null>,name=xrozamelanox,properties={},legacy=false] (/127.158.126.241:33667) lost connection: Disconnected
+[20Apr2025 20:27:46.548] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@381e918b[id=<null>,name=xrozamelanox,properties={},legacy=false] (/127.158.126.241:53117) lost connection: Disconnected
+[20Apr2025 20:29:20.477] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xrozamelanox[/127.158.126.241:55383] logged in with entity id 52 at (-239.4580617673556, 76.0, 34.81968729225732)
+[20Apr2025 20:29:20.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox joined the game
+[20Apr2025 20:31:14.153] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xrozamelanox lost connection: Disconnected
+[20Apr2025 20:31:14.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox left the game
+[20Apr2025 20:31:29.217] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xrozamelanox[/127.158.126.241:58095] logged in with entity id 425 at (-240.39786415138883, 75.0, 34.45276177235472)
+[20Apr2025 20:31:29.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox joined the game
+[20Apr2025 20:31:55.155] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xrozamelanox lost connection: Disconnected
+[20Apr2025 20:31:55.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox left the game
