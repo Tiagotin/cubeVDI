@@ -97,3 +97,13 @@
 [20Apr2025 22:04:52.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox has made the advancement [Take Aim]
 [20Apr2025 22:04:55.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox has completed the challenge [Hero of the Village]
 [20Apr2025 22:05:14.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox has made the advancement [What a Deal!]
+[20Apr2025 22:14:38.852] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xrozamelanox lost connection: Disconnected
+[20Apr2025 22:14:38.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox left the game
+[20Apr2025 22:15:41.709] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xrozamelanox[/127.158.126.241:51103] logged in with entity id 21589 at (-236.40067677966897, 77.0, 32.30000001192093)
+[20Apr2025 22:15:41.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox joined the game
+[20Apr2025 22:15:51.552] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xrozamelanox lost connection: Disconnected
+[20Apr2025 22:15:51.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox left the game
+[20Apr2025 22:16:00.061] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xrozamelanox[/127.158.126.241:56705] logged in with entity id 21742 at (-236.40067677966897, 77.0, 32.30000001192093)
+[20Apr2025 22:16:00.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox joined the game
+[20Apr2025 22:22:05.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xrozamelanox: Crafting Table: Book + Iron Bars]
+[20Apr2025 22:22:35.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xrozamelanox: [SecurityCraft] Click here to copy 1 registry entries to the clipboard.]
