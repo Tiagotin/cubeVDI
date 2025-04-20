@@ -84,3 +84,7 @@
 [20Apr2025 20:31:29.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox joined the game
 [20Apr2025 20:31:55.155] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xrozamelanox lost connection: Disconnected
 [20Apr2025 20:31:55.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox left the game
+[20Apr2025 20:33:41.264] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xrozamelanox[/127.158.126.241:34653] logged in with entity id 617 at (-240.39786415138883, 75.0, 34.45276177235472)
+[20Apr2025 20:33:41.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox joined the game
+[20Apr2025 20:34:51.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox has made the advancement [Voluntary Exile]
+[20Apr2025 20:36:58.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox has made the advancement [Hot Stuff]
