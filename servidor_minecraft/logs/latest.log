@@ -187,3 +187,8 @@
 [20Apr2025 23:15:21.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox left the game
 [20Apr2025 23:20:10.006] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tutoturbo568 lost connection: Disconnected
 [20Apr2025 23:20:10.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tutoturbo568 left the game
+[20Apr2025 23:26:19.548] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@11f8eff4[id=<null>,name=Sxptimo,properties={},legacy=false] (/127.209.183.226:57965) lost connection: Disconnected
+[20Apr2025 23:29:56.601] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PIPESS2112[/127.69.145.173:33575] logged in with entity id 55748 at (-22.5, 74.0, -45.5)
+[20Apr2025 23:29:56.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PIPESS2112 joined the game
+[20Apr2025 23:31:28.351] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PIPESS2112 lost connection: Disconnected
+[20Apr2025 23:31:28.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PIPESS2112 left the game
