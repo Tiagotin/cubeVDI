@@ -2279,3 +2279,38 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [20Apr2025 23:01:57.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> ta lleno
 [20Apr2025 23:03:22.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Apr2025 23:03:22.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 23:08:22.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 23:08:22.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 23:09:48.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> sosa
+[20Apr2025 23:09:50.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tutoturbo568> q
+[20Apr2025 23:09:58.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> vos viniste a uno q esta alado de una aldea?
+[20Apr2025 23:10:01.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> lo de los orcos
+[20Apr2025 23:10:08.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tutoturbo568> estoy en una aldea
+[20Apr2025 23:10:08.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tutoturbo568> sip
+[20Apr2025 23:10:10.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> y sacaste toda la paja?
+[20Apr2025 23:10:14.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tutoturbo568> si
+[20Apr2025 23:10:23.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> mis orcos :C
+[20Apr2025 23:10:29.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tutoturbo568> estoy en 900 -900
+[20Apr2025 23:10:44.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> ah no estas en la loma del orto
+[20Apr2025 23:10:53.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> y quien rompio esto entonces
+[20Apr2025 23:10:57.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tutoturbo568> ni idea
+[20Apr2025 23:11:07.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tutoturbo568> yo me encontre mi aldea y saque paja
+[20Apr2025 23:11:16.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> no pero lo de los orcos
+[20Apr2025 23:11:23.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> habia alado de la aldea?
+[20Apr2025 23:11:37.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tutoturbo568> en la aldea que encontre si
+[20Apr2025 23:11:57.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> mientras q no me hayas tocado los aldeanos xd
+[20Apr2025 23:12:05.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> ah tengo mal presagio
+[20Apr2025 23:12:06.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> wtf
+[20Apr2025 23:12:11.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> cuando no se
+[20Apr2025 23:13:00.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> bueno ya vuelvo
+[20Apr2025 23:13:04.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> voy a merendar
+[20Apr2025 23:13:22.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 23:13:22.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 23:15:21.310] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xrozamelanox lost connection: Disconnected
+[20Apr2025 23:15:21.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox left the game
+[20Apr2025 23:18:22.814] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 23:18:22.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 23:20:10.006] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tutoturbo568 lost connection: Disconnected
+[20Apr2025 23:20:10.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tutoturbo568 left the game
+[20Apr2025 23:23:22.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 23:23:22.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
