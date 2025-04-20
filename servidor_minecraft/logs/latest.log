@@ -111,3 +111,18 @@
 [20Apr2025 22:30:06.504] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@45ad82d7[id=<null>,name=tutoturbo568,properties={},legacy=false] (/127.151.159.53:41471) lost connection: Disconnected
 [20Apr2025 22:33:40.812] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tutoturbo568[/127.151.159.53:38773] logged in with entity id 26895 at (-16.5, 67.0, -45.5)
 [20Apr2025 22:33:40.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tutoturbo568 joined the game
+[20Apr2025 22:33:50.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> wenas
+[20Apr2025 22:34:19.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tutoturbo568> hola bebeto
+[20Apr2025 22:34:39.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xrozamelanox> negro si encontras jungla avisame
+[20Apr2025 22:34:45.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tutoturbo568> oka
+[20Apr2025 22:35:00.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xrozamelanox) moved wrongly! 0.30613053489361164
+[20Apr2025 22:35:00.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xrozamelanox) moved wrongly! 0.5138266108437506
+[20Apr2025 22:35:01.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xrozamelanox) moved wrongly! 0.7103899448984521
+[20Apr2025 22:35:01.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xrozamelanox) moved wrongly! 0.8999999761581421
+[20Apr2025 22:35:23.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xrozamelanox) moved wrongly! 0.30290135469692814
+[20Apr2025 22:35:23.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xrozamelanox) moved wrongly! 0.6101148282505164
+[20Apr2025 22:35:23.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xrozamelanox) moved wrongly! 0.9142461738779275
+[20Apr2025 22:35:23.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xrozamelanox) moved wrongly! 0.343939186026887
+[20Apr2025 22:38:20.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tutoturbo568 has made the advancement [Stone Age]
+[20Apr2025 22:38:47.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tutoturbo568 has made the advancement [Getting an Upgrade]
+[20Apr2025 22:43:49.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tutoturbo568> tengo cama

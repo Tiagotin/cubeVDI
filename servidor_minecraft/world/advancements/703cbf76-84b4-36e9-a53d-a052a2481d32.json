@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-04-19 21:03:17 +0000",
       "minecraft:taiga": "2025-04-19 21:05:42 +0000",
+      "minecraft:birch_forest": "2025-04-20 22:35:39 +0000",
       "minecraft:dark_forest": "2025-04-20 22:31:02 +0000",
       "minecraft:river": "2025-04-19 21:38:17 +0000",
       "minecraft:snowy_taiga": "2025-04-19 21:06:02 +0000",
@@ -2335,6 +2336,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-04-20 22:39:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-20 22:24:01 +0000"
@@ -2356,6 +2363,12 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-20 22:24:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-04-20 22:39:56 +0000"
     },
     "done": true
   },
