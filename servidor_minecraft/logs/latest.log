@@ -107,3 +107,7 @@
 [20Apr2025 22:16:00.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xrozamelanox joined the game
 [20Apr2025 22:22:05.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xrozamelanox: Crafting Table: Book + Iron Bars]
 [20Apr2025 22:22:35.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xrozamelanox: [SecurityCraft] Click here to copy 1 registry entries to the clipboard.]
+[20Apr2025 22:29:13.006] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@739d112a[id=<null>,name=tutoturbo568,properties={},legacy=false] (/127.151.159.53:44793) lost connection: Disconnected
+[20Apr2025 22:30:06.504] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@45ad82d7[id=<null>,name=tutoturbo568,properties={},legacy=false] (/127.151.159.53:41471) lost connection: Disconnected
+[20Apr2025 22:33:40.812] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tutoturbo568[/127.151.159.53:38773] logged in with entity id 26895 at (-16.5, 67.0, -45.5)
+[20Apr2025 22:33:40.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tutoturbo568 joined the game
