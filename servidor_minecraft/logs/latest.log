@@ -202,3 +202,10 @@
 [21Apr2025 02:18:23.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <franales> okkkkk
 [21Apr2025 02:18:25.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: franales lost connection: Disconnected
 [21Apr2025 02:18:25.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: franales left the game
+[21Apr2025 02:22:18.493] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: franales[/127.121.73.120:42805] logged in with entity id 36506 at (451.4561859962194, 77.0, -1310.5402124499992)
+[21Apr2025 02:22:18.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: franales joined the game
+[21Apr2025 02:26:39.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PIPESS2112 has made the advancement [Sweet Dreams]
+[21Apr2025 02:28:45.992] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: franales lost connection: Disconnected
+[21Apr2025 02:28:45.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: franales left the game
+[21Apr2025 02:29:23.846] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: franales[/127.121.73.120:49103] logged in with entity id 41006 at (632.4689936472492, 74.0, -1135.2206604612838)
+[21Apr2025 02:29:23.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: franales joined the game
