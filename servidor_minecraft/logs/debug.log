@@ -2722,3 +2722,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Apr2025 02:29:23.846] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: franales[/127.121.73.120:49103] logged in with entity id 41006 at (632.4689936472492, 74.0, -1135.2206604612838)
 [21Apr2025 02:29:23.846] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@19746f0 into net.minecraft.network.Connection@6bda3449
 [21Apr2025 02:29:23.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: franales joined the game
+[21Apr2025 02:32:51.997] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PIPESS2112 lost connection: Disconnected
+[21Apr2025 02:32:51.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PIPESS2112 left the game
+[21Apr2025 02:34:12.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Apr2025 02:34:12.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Apr2025 02:39:12.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Apr2025 02:39:12.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
