@@ -88,3 +88,21 @@
 [21Apr2025 01:28:21.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tried1050TI joined the game
 [21Apr2025 01:28:33.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PIPESS2112 has made the advancement [Getting an Upgrade]
 [21Apr2025 01:28:33.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-15, y=67, z=-39}
+[21Apr2025 01:30:18.684] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=65, z=32} BlockPos{x=42, y=64, z=33}
+[21Apr2025 01:30:18.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=65, z=32} BlockPos{x=42, y=64, z=33}
+[21Apr2025 01:30:29.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tried1050TI has made the advancement [Stone Age]
+[21Apr2025 01:31:38.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tried1050TI has made the advancement [Getting an Upgrade]
+[21Apr2025 01:32:11.741] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2f610c87[id=<null>,name=franales,properties={},legacy=false] (/127.121.73.120:53655) lost connection: Disconnected
+[21Apr2025 01:32:33.293] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@57d107f7[id=<null>,name=franales,properties={},legacy=false] (/127.121.73.120:42643) lost connection: Disconnected
+[21Apr2025 01:33:03.298] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: franales[/127.121.73.120:36277] logged in with entity id 6113 at (-20.5, 67.0, -42.5)
+[21Apr2025 01:33:03.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: franales joined the game
+[21Apr2025 01:33:14.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <franales> q onda
+[21Apr2025 01:33:24.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tried1050TI> q onda
+[21Apr2025 01:33:30.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PIPESS2112> che
+[21Apr2025 01:34:00.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sxptimo> que onda
+[21Apr2025 01:34:04.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tried1050TI> q onda
+[21Apr2025 01:34:05.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PIPESS2112 has made the advancement [Acquire Hardware]
+[21Apr2025 01:34:22.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PIPESS2112 has made the advancement [Isn't It Iron Pick]
+[21Apr2025 01:36:55.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: franales has made the advancement [Stone Age]
+[21Apr2025 01:37:07.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: franales has made the advancement [Getting an Upgrade]
+[21Apr2025 01:38:10.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <franales> se pueden dormir??
